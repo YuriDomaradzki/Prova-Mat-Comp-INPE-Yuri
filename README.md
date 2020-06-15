@@ -1,5 +1,5 @@
 # Prova-Mat-Comp-INPE-Yuri
-Contém os exercícios resolvidos da prova da disciplina Matemática Computacional. O arquivo que contém o script é o <a href="https://github.com/YuriDomaradzki/Prova-Mat-Comp-INPE-Yuri/blob/master/Prova_Covid_India_Yuri.ipynb">Prova_Covid_India_Yuri.ipynb</a>
+Contém os exercícios resolvidos da prova da disciplina Matemática Computacional. O arquivo que contém o script é o <a href="https://github.com/YuriDomaradzki/Prova-Mat-Comp-INPE-Yuri/blob/master/Prova_Covid_India_Yuri.ipynb">Prova_Covid_India_Yuri.ipynb</a>. O país estudado é a Índia. A partir deste país, foi análisado os valores de novos casos diários de Covid-19.
 
 <h1>Estrutura da Prova</h1>
 <ul>
