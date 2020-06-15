@@ -11,4 +11,5 @@ Contém os exercícios resolvidos da prova da disciplina Matemática Computacion
     <li>Obtém e plota o Espectro de Singularidades f(alfa) x alfa. </li>
     <li>Calcula o Delta alfa e a Assimetria de alfa. </li>
     <li>Plota uma tabela com os valores de Alfa, Beta, Delta Alfa, Alfa zero e Assimetria de Alfa</li>
+    <li>Plota o gráfico com g(t) e s(t) para ambos os espectros definidos no Modelo <a href="https://github.com/YuriDomaradzki/Prova-Mat-Comp-INPE-Yuri/blob/master/Prova-CAP238-2020-modelo-atualizado.pdf">IMC-SF-COVID19</a></li>
   </ul>
